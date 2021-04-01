@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aedaia
-- 🌱 I’m currently learning React.js!
+👋 Hi, I’m @aedaia
+🌱 I’m currently learning React.js!
 
 <!---
 aedaia/aedaia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
